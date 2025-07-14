@@ -1,4 +1,4 @@
-# Proyecto de Visualización de Datos para E-commerce en Locker Studio
+# Proyecto de Visualización de Datos para E-commerce en Locker Studio 📊✨
 
 Este repositorio contiene la documentación y los recursos relacionados con un proyecto de visualización de datos de e-commerce utilizando Locker Studio. El proyecto se divide en varias etapas, abarcando desde los fundamentos de Business Intelligence y la calidad de datos hasta la creación de dashboards interactivos y el storytelling de los hallazgos.
 
@@ -54,3 +54,13 @@ Puedes acceder al dashboard en Locker Studio aquí: [Dashboard de E-commerce en 
 * **Clientes:** 307.
 * **Productos vendidos:** 59.006, con junio como el mes más activo.
 * **Promedio de productos por venta:** Más de 3 productos por venta (3.48).
+
+<img width="1139" height="661" alt="image" src="https://github.com/user-attachments/assets/6679d4a2-30f1-4ceb-9ffc-83238b43a680" />
+
+## 🤝 Contribuciones
+
+¡Tu interés es bienvenido\! Si tienes sugerencias o deseas contribuir, no dudes en abrir un *issue* o enviar un *pull request*.
+
+## 🔗 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliafernandez)
