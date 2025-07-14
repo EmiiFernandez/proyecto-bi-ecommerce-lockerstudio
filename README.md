@@ -25,11 +25,11 @@ Esta etapa se centró en comprender los conceptos básicos de Business Intellige
     * **Cámara Argentina de Comercio Electrónico (CACE)**: Para analizar tendencias de consumo y segmentación de usuarios.
     * **Statista – E-commerce en Argentina**: Para comparar mercados e identificar productos populares.
     * **Wuala.net – Datos Clave de E-commerce**: Para entender el perfil del consumidor y tendencias.
-4.  **Obtención y calidad de datos:** Se importó un conjunto de datos de ventas a Google Sheets y se aplicó un checklist de calidad de datos. Se encontraron valores faltantes en `ID_Ventas`, datos duplicados y un formato de fechas no uniforme. Se recomendó eliminar duplicados, unificar el formato de fechas y actualizar los datos. Puedes ver el formulario del checklist aquí: [Formulario de Calidad de Datos](https://docs.google.com/forms/d/e/1FAIpQLSeT7-fvMgu_nwdxatzkWVxGMkHkhU5LnJkArrD1UULCbjalsQ/viewform?usp=dialog)[cite: 67].
+4.  **Obtención y calidad de datos:** Se importó un conjunto de datos de ventas a Google Sheets y se aplicó un checklist de calidad de datos. Se encontraron valores faltantes en `ID_Ventas`, datos duplicados y un formato de fechas no uniforme. Se recomendó eliminar duplicados, unificar el formato de fechas y actualizar los datos. Puedes ver el formulario del checklist aquí: [Formulario de Calidad de Datos](https://docs.google.com/forms/d/e/1FAIpQLSeT7-fvMgu_nwdxatzkWVxGMkHkhU5LnJkArrD1UULCbjalsQ/viewform?usp=dialog).
 
 ### Etapa 3: Dashboards y Visualización Interactiva
 
-Esta etapa se enfoca en la creación de los dashboards y la selección de los gráficos adecuados en Locker Studio[cite: 68, 69].
+Esta etapa se enfoca en la creación de los dashboards y la selección de los gráficos adecuados en Locker Studio.
 
 **Gráficos Utilizados y su Propósito:**
 
@@ -44,9 +44,9 @@ Esta etapa se enfoca en la creación de los dashboards y la selección de los gr
 
 ### Etapa 4: Final del Proyecto y Storytelling
 
-En esta etapa se presentan los hallazgos clave a través de los dashboards y se realiza el storytelling de los datos[cite: 87, 88].
+En esta etapa se presentan los hallazgos clave a través de los dashboards y se realiza el storytelling de los datos.
 
-Puedes acceder al dashboard en Locker Studio aquí: [Dashboard de E-commerce en Locker Studio](https://lookerstudio.google.com/reporting/495f1084-597b-4651-9dfc-7c9f955bd3ed)[cite: 89].
+Puedes acceder al dashboard en Locker Studio aquí: [Dashboard de E-commerce en Locker Studio](https://lookerstudio.google.com/reporting/495f1084-597b-4651-9dfc-7c9f955bd3ed).
 
 **Indicadores Clave (para el año 2024):**
 
